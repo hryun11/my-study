@@ -1,5 +1,8 @@
-1. What is the difference between an abstract class and an interface in Java? 
-2. Can you explain the SOLID principles of object-oriented design?
+## Java Backend Developer Interview Question
+<br>
+
+1. [What is the difference between an abstract class and an interface in Java?<br>추상클래스와 인터페이스의 차이](q01.md)
+2. [Can you explain the SOLID principles of object-oriented design?](q02.md)
 3. What is the difference between a HashMap and a Hashtable in Java? 
 4. How does garbage collection work in Java? 
 5. What are the differences between a checked and an unchecked exception in Java? 
