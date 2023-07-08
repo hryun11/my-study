@@ -3,7 +3,7 @@
 
 1. [What is the difference between an abstract class and an interface in Java?<br>추상클래스와 인터페이스의 차이](q01.md)
 2. [Can you explain the SOLID principles of object-oriented design?<br>객체 지향 설계의 SOLID 원칙이란?](q02.md)
-3. What is the difference between a HashMap and a Hashtable in Java? 
+3. [What is the difference between a HashMap and a Hashtable in Java?<br>HashMap과 Hashtable의 차이](q03.md)
 4. How does garbage collection work in Java? 
 5. What are the differences between a checked and an unchecked exception in Java? 
 6. What is the difference between the equals() and == operators in Java? 
