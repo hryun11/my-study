@@ -5,7 +5,7 @@
 2. [Can you explain the SOLID principles of object-oriented design?<br>객체 지향 설계의 SOLID 원칙이란?](q02.md)
 3. [What is the difference between a HashMap and a Hashtable in Java?<br>HashMap과 Hashtable의 차이](q03.md)
 4. [How does garbage collection work in Java?<br>가비지 컬렉션은 어떻게 작동하는가?](q04.md) 
-5. [What are the differences between a checked and an unchecked exception in Java?](q05.md)
+5. [What are the differences between a checked and an unchecked exception in Java?<br>Checked 예외와 Unchecked 예외의 차이](q05.md)
 6. What is the difference between the equals() and == operators in Java? 
 7. What is the difference between the final, finally, and finalize keywords in Java? 
 8. Can you explain the difference between a static and a non-static method in Java? 
