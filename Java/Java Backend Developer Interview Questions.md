@@ -8,7 +8,7 @@
 5. [What are the differences between a checked and an unchecked exception in Java?<br>Checked 예외와 Unchecked 예외의 차이](q05.md)
 6. [What is the difference between the equals() and == operators in Java?<br>equals() vs. ==](q06.md) 
 7. [What is the difference between the final, finally, and finalize keywords in Java?<br>final, finally, finalize](q07.md) 
-8. Can you explain the difference between a static and a non-static method in Java? 
+8. [Can you explain the difference between a static and a non-static method in Java?<br>static vs non-static method](q08.md)
 9. What is the difference between a thread and a process in Java? 
 10. How do you handle concurrency in Java? 
 11. Can you explain the concept of multithreading and synchronization in Java? 
