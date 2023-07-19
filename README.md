@@ -9,4 +9,4 @@
 6. [What is the difference between the equals() and == operators in Java?<br>equals() vs. ==](Java/q06.md)
 7. [What is the difference between the final, finally, and finalize keywords in Java?<br>final, finally, finalize의 차이](Java/q07.md)
 8. [Can you explain the difference between a static and a non-static method in Java?<br>static vs non-static method](Java/q08.md)
-9. [What is the difference between a thread and a process in Java?<br>Thread와 Process의 차이](Java/q09.md)
+9. [What is the difference between a thread and a process in Java?<br>Thread와 Process](Java/q09.md)
