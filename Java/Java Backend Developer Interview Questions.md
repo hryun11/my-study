@@ -21,3 +21,4 @@
 18. Can you explain how to use JUnit for testing in Java? 
 19. What is the difference between a private and a protected method in Java? 
 20. What is the difference between an inner class and a nested class in Java?
+21. What is Serialization and Deserialization in Java?
