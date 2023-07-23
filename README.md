@@ -10,3 +10,4 @@
 7. [What is the difference between the final, finally, and finalize keywords in Java?<br>final, finally, finalize의 차이](Java/q07.md)
 8. [Can you explain the difference between a static and a non-static method in Java?<br>static vs non-static method](Java/q08.md)
 9. [What is the difference between a thread and a process in Java?<br>Thread와 Process](Java/q09.md)
+10. [How do you handle concurrency in Java?<br>동시성 문제 처리](Java/q10.md)
