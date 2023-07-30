@@ -1,4 +1,4 @@
-공부한 것들을 하나씩 정리하는 곳
+# 📝
 
 ## Java
 1. [What is the difference between an abstract class and an interface in Java?<br>추상클래스와 인터페이스의 차이](Java/q01.md)
@@ -10,4 +10,4 @@
 7. [What is the difference between the final, finally, and finalize keywords in Java?<br>final, finally, finalize의 차이](Java/q07.md)
 8. [Can you explain the difference between a static and a non-static method in Java?<br>static vs non-static method](Java/q08.md)
 9. [What is the difference between a thread and a process in Java?<br>Thread와 Process](Java/q09.md)
-10. [How do you handle concurrency in Java?<br>동시성 문제 처리](Java/q10.md)
+10. [How do you handle concurrency in Java?<br>자바 동시성 처리](Java/q10.md)
