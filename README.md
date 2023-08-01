@@ -11,3 +11,4 @@
 8. [Can you explain the difference between a static and a non-static method in Java?<br>static vs non-static method](Java/q08.md)
 9. [What is the difference between a thread and a process in Java?<br>Thread와 Process](Java/q09.md)
 10. [How do you handle concurrency in Java?<br>자바 동시성 처리](Java/q10.md)
+11. [The concept of multithreading and synchronization in Java?<br>멀티스레딩과 동기화](Java/q11.md)
