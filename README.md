@@ -13,3 +13,5 @@
 10. [Handling concurrency in Java<br>자바 동시성 처리](Java/q10.md)
 11. [The concept of multithreading and synchronization in Java<br>멀티스레딩과 동기화](Java/q11.md)
 12. [What is Spring Framework in Java?<br>스프링 프레임워크란?](Java/q12.md)
+13. [What is RESTful web services?<br>RESTful 웹서비스](Java/q13.md)
+14. [What are the advantages of using Hibernate ORM?<br>Hibernate ORM 사용의 이점](Java/q14.md)
