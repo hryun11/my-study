@@ -15,3 +15,6 @@
 12. [What is Spring Framework in Java?<br>스프링 프레임워크란?](Java/q12.md)
 13. [What is RESTful web services?<br>RESTful 웹서비스](Java/q13.md)
 14. [What are the advantages of using Hibernate ORM?<br>Hibernate ORM 사용의 이점](Java/q14.md)
+15. [What is JDBC?<br>JDBC란 무엇인가?](Java/q15.md)
+16. [What is the difference between a stack and a queue in Java?<br>Stack과 Queue](Java/q16.md)
+17. [private vs protected method](Java/q17.md)
