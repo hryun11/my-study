@@ -19,3 +19,4 @@
 16. [What is the difference between a stack and a queue in Java?<br>Stack과 Queue](Java/q16.md)
 17. [private vs protected method](Java/q17.md)
 18. [What is the difference between an inner class and a nested class in Java?<br>내부 클래스와 중첩 클래스](Java/q18.md)
+19. [What is Serialization and Deserialization in Java?<br>직렬화와 역직렬화](Java/q19.md)
