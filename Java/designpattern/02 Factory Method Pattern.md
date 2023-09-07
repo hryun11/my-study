@@ -12,19 +12,19 @@
 
 ```java
 // 1: Product 인터페이스를 정의한다.
-public interface Product {
+interface Product {
     void display();
 }
 
 // 2: ConcreteProduct 클래스들을 생성한다.
-public class ConcreteProductA implements Product {
+class ConcreteProductA implements Product {
     @Override
     public void display() {
         System.out.println("Product A");
     }
 }
 
-public class ConcreteProductB implements Product {
+class ConcreteProductB implements Product {
     @Override
     public void display() {
         System.out.println("Product B");
@@ -32,19 +32,19 @@ public class ConcreteProductB implements Product {
 }
 
 // 3: Creator 인터페이스(or 추상 클래스)를 정의한다.
-public abstract class Creator {
+abstract class Creator {
     public abstract Product factoryMethod();
 }
 
 // 4 : ConcreteCreator 클래스들을 생성한다.
-public class ConcreteCreatorA extends Creator {
+class ConcreteCreatorA extends Creator {
     @Override
     public Product factoryMethod() {
         return new ConcreteProductA();
     }
 }
 
-public class ConcreteCreatorB extends Creator {
+class ConcreteCreatorB extends Creator {
     @Override
     public Product factoryMethod() {
         return new ConcreteProductB();
@@ -52,7 +52,7 @@ public class ConcreteCreatorB extends Creator {
 }
 
 // 5 : 팩토리 메서드 패턴을 사용하는 클라이언트 코드
-public class Main {
+public class FactoryMethodPattern {
     public static void main(String[] args) {
         Creator creatorA = new ConcreteCreatorA();
         Product productA = creatorA.factoryMethod();
@@ -60,7 +60,7 @@ public class Main {
 
         Creator creatorB = new ConcreteCreatorB();
         Product productB = creatorB.factoryMethod();
-        productB.display();                
+        productB.display();
     }
 }
 ```
