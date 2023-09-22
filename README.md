@@ -28,3 +28,4 @@
 1. [Singleton Pattern](Java/designpattern/01%20Singleton%20Pattern.md)
 2. [Factory Method Pattern](Java/designpattern/02%20Factory%20Method%20Pattern.md)
 3. [Builder Pattern](Java/designpattern/03%20Builder%20Pattern.md)
+4. [Adapter Pattern](Java/designpattern/AdapterPattern.java)
