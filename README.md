@@ -29,3 +29,4 @@
 2. [Factory Method Pattern](Java/designpattern/02%20Factory%20Method%20Pattern.md)
 3. [Builder Pattern](Java/designpattern/03%20Builder%20Pattern.md)
 4. [Adapter Pattern](Java/designpattern/AdapterPattern.java)
+5. [Observer Pattern](Java/designpattern/05_Observer%20Pattern.md)
